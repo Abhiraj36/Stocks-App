@@ -10,9 +10,9 @@ import {
 } from "@/components/ui/dropdown-menu";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import { Button } from "@/components/ui/button";
-import { LogOut } from "lucide-react"; // ✅ Added import
+import { LogOut } from "lucide-react"; //  Added import
 import { useRouter } from "next/navigation";
-// import NavItems from "@/components/NavItems"; // ✅ Uncomment if you have it
+import NavItems from "@/components/NavItems"; // Uncomment if you have it
 
 const UserDropdown = () => {
   const router = useRouter();
@@ -68,10 +68,10 @@ const UserDropdown = () => {
 
         <DropdownMenuSeparator className="hidden sm:block bg-gray-600" />
 
-        {/* Uncomment if NavItems exists */}
-        {/* <nav className="sm:hidden">
+       
+       <nav className="sm:hidden">
           <NavItems />
-        </nav> */}
+        </nav> 
       </DropdownMenuContent>
     </DropdownMenu>
   )
