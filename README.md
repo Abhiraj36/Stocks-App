@@ -1,14 +1,19 @@
-# ✨ Signalist – AI-Powered Stock Market App
+                                                                                      # ✨ Signalist – AI-Powered Stock Market App
 
 <img width="1911" height="854" alt="Screenshot 2025-10-24 124942" src="https://github.com/user-attachments/assets/7f72aa9d-bddc-4fb2-bf61-29f61949553c" />
 <img width="1888" height="855" alt="Screenshot 2025-10-24 124815" src="https://github.com/user-attachments/assets/256c1d83-eabd-4111-8cbf-c6c811310e9f" />
 <img width="1867" height="847" alt="Screenshot 2025-10-24 124847" src="https://github.com/user-attachments/assets/69fbaa98-f8ed-48f7-bca7-e7e749131e22" />
+<img width="1867" height="847" alt="Screenshot 2025-10-24 124847" src="https://github.com/user-attachments/assets/fc77d310-89b7-45a4-a796-a002bddd5c27" />
+<img width="1887" height="842" alt="Screenshot 2025-10-24 201648" src="https://github.com/user-attachments/assets/7e691631-324c-4e11-92b1-8eb4447942d3" />
 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/) 
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) 
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) 
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
 
 ---
 
