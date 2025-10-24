@@ -1,3 +1,4 @@
+//stocks_app\lib\nodemailer\index.ts
 import nodemailer from 'nodemailer';
 import {WELCOME_EMAIL_TEMPLATE, NEWS_SUMMARY_EMAIL_TEMPLATE} from "@/lib/nodemailer/templates";
 

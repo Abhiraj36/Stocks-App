@@ -1,3 +1,5 @@
+//stocks_app\app\api\inngest\route.ts
+
 import { serve } from 'inngest/next';
 import { inngest } from '@/lib/inngest/client';
 import { sendDailyNewsSummary, sendSignUpEmail } from '@/lib/inngest/functions';
